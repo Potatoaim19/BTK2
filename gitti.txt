@@ -1,0 +1,50 @@
+# =========================
+# Flutter
+# =========================
+bai_kiem_tra_02/build/
+bai_kiem_tra_02/.dart_tool/
+bai_kiem_tra_02/.flutter-plugins
+bai_kiem_tra_02/.flutter-plugins-dependencies
+bai_kiem_tra_02/.packages
+
+# Android
+bai_kiem_tra_02/android/.gradle/
+bai_kiem_tra_02/android/local.properties
+bai_kiem_tra_02/android/app/build/
+
+# iOS
+bai_kiem_tra_02/ios/Pods/
+bai_kiem_tra_02/ios/.symlinks/
+bai_kiem_tra_02/ios/Flutter/Flutter.framework
+bai_kiem_tra_02/ios/Flutter/Flutter.podspec
+
+# Web
+bai_kiem_tra_02/web/.dart_tool/
+
+# =========================
+# .NET / ASP.NET Core
+# =========================
+Pcm.Backend/**/bin/
+Pcm.Backend/**/obj/
+Pcm.Backend/.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Common / IDE
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Secrets / Env
+# =========================
+*.env
+appsettings.Development.json
+appsettings.Production.json
