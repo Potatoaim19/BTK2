@@ -3707,11 +3707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lengo\\Pcm.Backend\\Pcm.Api\\Pcm.Api.csproj",
+      "projectUniqueName": "C:\\Users\\lengo\\BTK2\\Pcm.Backend\\Pcm.Api\\Pcm.Api.csproj",
       "projectName": "Pcm.Api",
-      "projectPath": "C:\\Users\\lengo\\Pcm.Backend\\Pcm.Api\\Pcm.Api.csproj",
+      "projectPath": "C:\\Users\\lengo\\BTK2\\Pcm.Backend\\Pcm.Api\\Pcm.Api.csproj",
       "packagesPath": "C:\\Users\\lengo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lengo\\Pcm.Backend\\Pcm.Api\\obj\\",
+      "outputPath": "C:\\Users\\lengo\\BTK2\\Pcm.Backend\\Pcm.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lengo\\AppData\\Roaming\\NuGet\\NuGet.Config"
