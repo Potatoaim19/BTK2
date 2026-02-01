@@ -55,12 +55,15 @@ builder.Services.AddCors(options =>
 
 // Swagger
 builder.Services.AddSwaggerGen();
+builder.Services.AddEndpointsApiExplorer();
 
 var app = builder.Build();
 
-// Middleware
-app.UseSwagger();
-app.UseSwaggerUI();
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 await DbInitializer.SeedAsync(app.Services);
 
